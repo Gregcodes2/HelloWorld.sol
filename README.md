@@ -1,2 +1,1 @@
-# HelloWorld.sol
-A helloworld solidity program to calculate a coin's marketcap
+https://rinkeby.etherscan.io/tx/0xf38bada3216c5c7828b77706e0fd2cea8c23bf40c2b6d860cd02fc2e17a2f8bf
